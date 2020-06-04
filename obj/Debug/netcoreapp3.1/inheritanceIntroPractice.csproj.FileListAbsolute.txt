@@ -1,0 +1,13 @@
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\bin\Debug\netcoreapp3.1\inheritanceIntroPractice.exe
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\bin\Debug\netcoreapp3.1\inheritanceIntroPractice.deps.json
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\bin\Debug\netcoreapp3.1\inheritanceIntroPractice.runtimeconfig.json
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\bin\Debug\netcoreapp3.1\inheritanceIntroPractice.runtimeconfig.dev.json
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\bin\Debug\netcoreapp3.1\inheritanceIntroPractice.dll
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\bin\Debug\netcoreapp3.1\inheritanceIntroPractice.pdb
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\obj\Debug\netcoreapp3.1\inheritanceIntroPractice.csprojAssemblyReference.cache
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\obj\Debug\netcoreapp3.1\inheritanceIntroPractice.AssemblyInfoInputs.cache
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\obj\Debug\netcoreapp3.1\inheritanceIntroPractice.AssemblyInfo.cs
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\obj\Debug\netcoreapp3.1\inheritanceIntroPractice.csproj.CoreCompileInputs.cache
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\obj\Debug\netcoreapp3.1\inheritanceIntroPractice.dll
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\obj\Debug\netcoreapp3.1\inheritanceIntroPractice.pdb
+C:\Users\super\documents\workspace\inheritanceIntroPracticr\inheritanceIntroPractice\obj\Debug\netcoreapp3.1\inheritanceIntroPractice.genruntimeconfig.cache
